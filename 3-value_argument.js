@@ -4,5 +4,5 @@ if (!chips[0]) {
 } else if (!chips[1]) {
     console.log("HBTN");
 } else {
-    console.log("Arguments found");
+    console.log("HBTN");
 }
